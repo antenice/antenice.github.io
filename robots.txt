@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antenice.github.io/sitemap.html.gz
+Sitemap: https://antenice.github.io/app/sitemap.html.gz
+Sitemap: https://antenice.github.io/assets/sitemap.html.gz
+Sitemap: https://antenice.github.io/css/sitemap.html.gz
+Sitemap: https://antenice.github.io/includes/sitemap.html.gz
+Sitemap: https://antenice.github.io/item/sitemap.html.gz
+Sitemap: https://antenice.github.io/src/sitemap.html.gz
